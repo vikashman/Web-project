@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.5),#009688),url(images/website/banner.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),#009688),url(website/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -378,7 +378,21 @@ hr{
     padding: 0 10px;
     overflow: hidden;
   }
-  
+  .contact-section{
+    background-size: cover;
+    padding: 40px 0;
+  }
+  .contact-section h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+  }
+  .border{
+    width: 100px;
+    height: 10px;
+    background: orangered;
+    margin: 40px auto;
+  }
   .contact-form-text{
     display: block;
     width: 100%;
