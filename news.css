@@ -393,21 +393,6 @@ hr{
     padding: 0 10px;
     overflow: hidden;
   }
-  .contact-section{
-    background-size: cover;
-    padding: 40px 0;
-  }
-  .contact-section h1{
-    text-align: center;
-    color: black;
-    font-size: 40px;
-  }
-  .border{
-    width: 100px;
-    height: 10px;
-    background: orangered;
-    margin: 40px auto;
-  }
   .contact-form-text{
     display: block;
     width: 100%;
