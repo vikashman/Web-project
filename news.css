@@ -372,6 +372,21 @@ hr{
 .footer-row p{
     line-height: 35px;
 }
+.contact-section{
+    background-size: cover;
+    padding: 40px 0;
+  }
+  .contact-section h1{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+  }
+  .border{
+    width: 100px;
+    height: 10px;
+    background: orangered;
+    margin: 40px auto;
+  }
 .contact-form{
     max-width: 600px;
     margin: auto;
